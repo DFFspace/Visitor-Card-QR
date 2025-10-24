@@ -6,7 +6,7 @@ With this application we can create and also export the QR code. Makes it easy t
 ![](ProgramVCQRPhone.png)
 
 ### Dependencies
-- **[QRCoder]([https://github.com/ghost1372/DevWinUI](https://github.com/Shane32/QRCoder))**
+- **[QRCoder](https://github.com/Shane32/QRCoder)**
 - **[Windows Community Toolkit](https://github.com/CommunityToolkit/Windows)**
 - **[Microsoft Windows SDK BuildTools](https://www.nuget.org/packages/Microsoft.Windows.SDK.BuildTools/10.0.26100.6584?_src=template)**
 - **[Windows App SDK](https://github.com/microsoft/WindowsAppSDK)**
