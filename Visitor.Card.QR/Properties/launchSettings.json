@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Visitor.Card.QR (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Visitor.Card.QR (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
